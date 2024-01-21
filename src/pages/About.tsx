@@ -10,6 +10,8 @@ export function About() {
           style={{ textDecoration: "none" }}
           title="IcEazy's Portfolio"
           href="https://icyeazy.github.io/IcyEazy-portfolio-website/"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           IcEazy's Portfolio
         </a>
