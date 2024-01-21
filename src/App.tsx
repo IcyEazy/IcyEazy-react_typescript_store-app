@@ -12,9 +12,18 @@ function App() {
       <Navbar />
       <Container className="mb-4">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/store" element={<Store />} />
-          <Route path="/about" element={<About />} />
+          <Route
+            path="/IcyEazy-react_typescript_store-app"
+            element={<Home />}
+          />
+          <Route
+            path="/IcyEazy-react_typescript_store-app/store"
+            element={<Store />}
+          />
+          <Route
+            path="/IcyEazy-react_typescript_store-app/about"
+            element={<About />}
+          />
         </Routes>
       </Container>
     </ShoppingCartProvider>
