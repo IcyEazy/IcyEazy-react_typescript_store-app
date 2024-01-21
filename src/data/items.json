@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bike",
+    "price": 7000,
+    "imgUrl": "/imgs/bike.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Horse",
+    "price": 1000,
+    "imgUrl": "/imgs/horse.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "House",
+    "price": 25000,
+    "imgUrl": "/imgs/house.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Bed",
+    "price": 300.7,
+    "imgUrl": "/imgs/bed.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Pillow",
+    "price": 32.85,
+    "imgUrl": "/imgs/pillow.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Sun Shade",
+    "price": 100,
+    "imgUrl": "/imgs/sun-shade.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Shoe",
+    "price": 270.2,
+    "imgUrl": "/imgs/shoe.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Trousers",
+    "price": 28.6,
+    "imgUrl": "/imgs/trousers.jpeg"
+  }
+]
